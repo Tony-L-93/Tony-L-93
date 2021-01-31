@@ -20,7 +20,8 @@
 
 ---
 ## Contactame: 
-[<img alt="Tony|LinkedIn" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"/>]("https://www.linkedin.com/in/tonyliendro/")
+[<img alt="Tony|LinkedIn" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png"/>]("https://www.linkedin.com/in/tonyliendro/")
+
 
 
 ---
