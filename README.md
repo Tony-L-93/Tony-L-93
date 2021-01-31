@@ -2,7 +2,7 @@
 
 ## Desarrollador de Software. Futuro Licenciado en Sistemas.
 
-- 🚀 A un final de recibirme de Tecnico Superior en Informática. Por otro lado, mas de la mitad de la Licenciatura en Sistemas.
+- 🚀 A un final de recibirme de Tecnico Superior en Informática. Además, voy haciendo más de la mitad de la Licenciatura en Sistemas.
 - 🌱 Ademas de Desarrollador de Software. También, me gusta el rol de Analista Funcional, me gusta la documentación.
 - ⚡ Me encanta seguir aprendiendo por mi cuenta nuevas tecnologías: lenguajes de programación, librerias, etc. 
 - ❤️ Continuo estudiando Inglés y, además, estoy estudiando Francés de manera autodidacta.
