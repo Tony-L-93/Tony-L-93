@@ -8,13 +8,8 @@
 - ❤️ Me estoy perfeccionando en Inglés en un Instituto y, además, estoy estudiando Francés de manera autodidacta.
 - ⭐️ Con bastante conocimiento en la lógica de negocio y con el desafio de adentrarme en la interfaz de usuario.
 
-### Contactame:
-
-[<img align="left" alt="Tony | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-
 <br />
----
-##  Conocimientos
+## Conocimientos
 - **Lenguajes**: Java, Python
 - **Base de Datos**: MongoDB, MySQL, PostgreSQL, Cassandra
 - **Frameworks**: SpringBoot
@@ -23,6 +18,9 @@
 - **Virtualización**: VirtualBox
 - **Otros**: Git, PostMan, Ubuntu, Windows, JasperReports.
 
+<br />
+### Contactame:
+[<img align="left" alt="Tony | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 
 ---
 
