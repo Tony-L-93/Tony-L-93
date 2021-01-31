@@ -10,7 +10,7 @@
 
 <br />
 ## Conocimientos
-- **Lenguajes**: Java, Python
+- *Lenguajes*: Java, Python
 - **Base de Datos**: MongoDB, MySQL, PostgreSQL, Cassandra
 - **Frameworks**: SpringBoot
 - **Librerías**: Swagger, SpringMail, JPA, etc.
@@ -20,8 +20,4 @@
 
 <br />
 ### Contactame:
-[<img align="left" alt="Tony | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-
----
-
-[linkedin]: https://www.linkedin.com/in/tonyliendro/
+[<img align="left" alt="Tony | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][https://www.linkedin.com/in/tonyliendro/]
