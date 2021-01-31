@@ -19,8 +19,7 @@
 - **Otros**: Git, PostMan, Ubuntu, Windows, JasperReports
 
 ---
-### Contactame:
-[<a href="https://www.linkedin.com/in/tonyliendro/"><img align="left" alt="Tony | LinkedIn" height="30px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"/>]
+### Contactame: <a href="https://www.linkedin.com/in/tonyliendro/"><img align="left" alt="Tony | LinkedIn" height="30px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"/>
 
 ---
  📢 por [Tony Liendro](https://github.com/Tony-L-93)
