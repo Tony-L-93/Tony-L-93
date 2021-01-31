@@ -9,7 +9,7 @@
 - ⭐️ Con bastante conocimiento en la lógica de negocio y con el desafio de adentrarme en la interfaz de usuario.
 
 ---
-## Conocimientos
+## CONOCIMIENTOS
 - **Lenguajes**: Java, Python
 - **Base de Datos**: MongoDB, MySQL, PostgreSQL, Cassandra
 - **Frameworks**: SpringBoot
@@ -19,7 +19,7 @@
 - **Otros**: Git, PostMan, Ubuntu, Windows, JasperReports
 
 ---
-## Contactame:   [<img alt="Tony | LinkedIn" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"/>](href="https://www.linkedin.com/in/tonyliendro/"])
+## CONTACTAME:   [<img alt="Tony | LinkedIn" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"/>](href="https://www.linkedin.com/in/tonyliendro/"])
 
 ---
  📢 por [Tony Liendro](https://github.com/Tony-L-93)
