@@ -20,4 +20,7 @@
 
 ---
 ### Contactame:
-[<img align="left" alt="Tony | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />] (https://www.linkedin.com/in/tonyliendro/)
+[<img align="left" alt="Tony | LinkedIn" height="30px" href="https://www.freepnglogos.com/images/linkedin-logo-png-1825.html" />] [https://www.linkedin.com/in/tonyliendro/]
+
+---
+ 📢 por [Tony Liendro](https://github.com/Tony-L-93)
