@@ -20,4 +20,4 @@
 
 ---
 ### Contactame:
-[<img align="left" alt="Tony | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][https://www.linkedin.com/in/tonyliendro/]
+[<img align="left" alt="Tony | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />] (https://www.linkedin.com/in/tonyliendro/)
