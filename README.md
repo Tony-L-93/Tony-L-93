@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Antonio Ezequiel Liendor, más conocido como Tony. 👋🏾
 
-## Desarrollador de Software. Futuro Licenciado en Sistemas. 
+## Desarrollador de Software. Futuro Licenciado en Sistemas. 💻
 
 - 🚀 A un final de recibirme de Tecnico Superior en Informática. Por otro lado, mas de la mitad de la Licenciatura en Sistemas.
 - 🌱 Ademas de Desarrollador de Software. También me gusta el rol de Analista Funcional, me gusta la documentación.
@@ -13,8 +13,17 @@
 [<img align="left" alt="Tony | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 
 <br />
+---
+##  Conocimientos
+- **Lenguajes**: Java, Python
+- **Base de Datos**: MongoDB, MySQL, PostgreSQL, Cassandra
+- **Frameworks**: SpringBoot
+- **Librerías**: Swagger, SpringMail, JPA, etc.
+- **Web**: HTML5, CSS3
+- **Virtualización**: VirtualBox
+- **Otros**: Git, PostMan, Ubuntu, Windows, JasperReports.
+
 
 ---
 
 [linkedin]: https://www.linkedin.com/in/tonyliendro/
-[gmail]: mailto:tonyliendro@gmail.com
