@@ -15,9 +15,11 @@
 - **Base de Datos**: MongoDB, MySQL, PostgreSQL, Cassandra
 - **Frameworks**: SpringBoot
 - **Librerías**: Swagger, SpringMail, JPA, etc
-- **Web**: HTML5, CSS3
 - **Virtualización**: VirtualBox
-- **Otros**: Git, PostMan, Ubuntu, Windows, JasperReports
+- **IDE**: Eclipse, Visual Studio, Notepad++
+- **Web**: HTML5, CSS3
+- **Control de versiones**: Git
+- **Además**: PostMan, Ubuntu, Windows, JasperReports
 
 ---
 ## Contactame: 
