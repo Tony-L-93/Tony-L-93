@@ -1,4 +1,4 @@
-### ¡Hola! Soy Antonio Ezequiel Liendro, más conocido como Tony. 👋🏾
+### ¡Hola, soy Tony! Bienvenido a mi repositorio. 👋🏾
 
 ## Desarrollador de Software. Futuro Licenciado en Sistemas.
 
