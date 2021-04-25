@@ -3,10 +3,10 @@
 ## Desarrollador de Software. Futuro Licenciado en Sistemas.
 
 - 🚀 Estudiando Licenciatura en Sistemas.
-- 🌱 Ademas de Desarrollador de Software, también, me gusta el rol de Analista Funcional; me gusta la documentación.
+- 🌱 Ademas de Desarrollador de Software, también me gusta el rol de Analista Funcional. Me gusta la documentación.
 - ⚡ Me encanta seguir aprendiendo por mi cuenta nuevas tecnologías: lenguajes de programación, librerias, etc. 
-- ❤️ Continuo estudiando Inglés y, además, estoy estudiando Francés de manera autodidacta.
-- 💻 Con bastante conocimiento en la lógica de negocio, administración de bases de datos y analisis funcional de un sistema.
+- ❤️ Continuo estudiando Inglés, ya estoy en Upper Intermediate. Además, estoy estudiando Francés de manera autodidacta.
+- 💻 Tengo bastante conocimiento en lógica de negocio, administración de bases de datos y analisis funcional de un sistema.
 - ⭐️ Desafio: Seguir aprendiendo sobre Microsevicios.
 
 ---
