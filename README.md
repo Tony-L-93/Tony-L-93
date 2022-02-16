@@ -17,7 +17,7 @@
 - **Librerías**: Swagger, SpringMail, JPA, etc
 - **Virtualización**: VirtualBox
 - **IDE**: Eclipse, Visual Studio, Notepad++
-- **Web**: HTML5, CSS3
+- **Web**: HTML5, CSS3, Angular, Vue
 - **Control de versiones**: Git
 - **Además**: PostMan, Linux, Windows, JasperReports, Trello, Jira
 
