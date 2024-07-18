@@ -11,12 +11,12 @@
 ---
 ## Conocimientos
 - **Lenguajes**: Java, Python
-- **Base de Datos**: MongoDB, MySQL, PostgreSQL, Cassandra
-- **Frameworks**: Spring
+- **Base de Datos**: MySQL, PostgreSQL
+- **Frameworks**: Spring Boot
 - **Librerías**: Swagger, SpringMail, JPA, etc
 - **Virtualización**: VirtualBox
 - **IDE**: Eclipse, Visual Studio, Notepad++
-- **Web**: HTML5, CSS3, Angular, Vue
+- **Web**: HTML5, CSS3, Angular, VueJS
 - **Control de versiones**: Git
 - **Además**: PostMan, Linux, Windows, JasperReports, Trello, Jira
 
