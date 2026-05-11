@@ -42,23 +42,12 @@
 * Swagger
 * Linux
 * Jira
-* Trello
 
 ## IDEs
 
 * Visual Studio
 * VS Code
 * Eclipse
-
-## Conocimientos
-- **Lenguajes**: C#, Java
-- **Base de Datos**: PostgreSQL, MySQL
-- **Frameworks**: .NET / ASP.NET Core. Spring Boot
-- **Librerías**: Swagger, SpringMail, JPA, etc
-- **IDE**:  Visual Studio, Eclipse.
-- **Web**: Angular, VueJS
-- **Control de versiones**: Git
-- **Además**: PostMan, Linux, Windows, Trello, Jira
 
 ---
 ## Contactame: 
