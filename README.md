@@ -1,24 +1,64 @@
-### ¡Hola, soy Tony! Bienvenido a mi repositorio. 👋🏾
+# ¡Hola, soy Tony! 👋🏾
 
-## Desarrollador de Software. Futuro Licenciado en Sistemas.
+## Desarrollador de Software | Técnico Universitario en Informática
 
-- 🚀 Estudiando Licenciatura en Sistemas.
-- ⚡ Me encanta seguir aprendiendo por mi cuenta nuevas tecnologías: lenguajes de programación, librerias, etc. 
-- ❤️ Continuo estudiando Inglés, ya estoy en Upper Intermediate. Además, estoy estudiando Francés de manera autodidacta.
-- 💻 Tengo bastante conocimiento en lógica de negocio, administración de bases de datos y analisis funcional de un sistema.
-- ⭐️ Desafio: Seguir aprendiendo sobre Microsevicios.
+* 🚀 Apasionado por el desarrollo backend y la arquitectura de software.
+* ⚡ Me gusta aprender constantemente nuevas tecnologías, frameworks y herramientas.
+* 💻 Actualmente trabajo full-time desarrollando soluciones de software.
+* 🌍 Intereses: idiomas, viajes y tecnología.
+* ⭐️ Objetivo actual: seguir creciendo en arquitectura y DevOps.
 
 ---
+# Tecnologías y herramientas
+
+## Lenguajes
+
+* C#
+* Java
+* SQL
+
+## Frameworks y tecnologías
+
+* ASP.NET Core / .NET
+* Spring Boot
+* Entity Framework Core
+* JPA / Hibernate
+
+## Bases de datos
+
+* PostgreSQL
+* MySQL
+
+## Frontend
+
+* Angular
+* Vue.js
+
+## Herramientas
+
+* Git
+* Docker
+* Postman
+* Swagger
+* Linux
+* Jira
+* Trello
+
+## IDEs
+
+* Visual Studio
+* VS Code
+* Eclipse
+
 ## Conocimientos
-- **Lenguajes**: Java, Python
-- **Base de Datos**: MySQL, PostgreSQL
-- **Frameworks**: Spring Boot
+- **Lenguajes**: C#, Java
+- **Base de Datos**: PostgreSQL, MySQL
+- **Frameworks**: .NET / ASP.NET Core. Spring Boot
 - **Librerías**: Swagger, SpringMail, JPA, etc
-- **Virtualización**: VirtualBox
-- **IDE**: Eclipse, Visual Studio, Notepad++
-- **Web**: HTML5, CSS3, Angular, VueJS
+- **IDE**:  Visual Studio, Eclipse.
+- **Web**: Angular, VueJS
 - **Control de versiones**: Git
-- **Además**: PostMan, Linux, Windows, JasperReports, Trello, Jira
+- **Además**: PostMan, Linux, Windows, Trello, Jira
 
 ---
 ## Contactame: 
